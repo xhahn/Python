@@ -1,5 +1,6 @@
 # Python
 there are some python projects
-* Decision Tree
-* Logistic Regression
-* CART
+* Decision Tree demo
+* Logistic Regression demo
+* CART demo
+* tianchi freshman
